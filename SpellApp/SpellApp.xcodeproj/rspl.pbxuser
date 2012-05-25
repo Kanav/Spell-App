@@ -2,16 +2,16 @@
 {
 	1D3623240D0F684500981E51 /* SpellAppAppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {936, 560}}";
+			sepNavIntBoundsRect = "{{0, 0}, {895, 560}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 463}";
 		};
 	};
 	1D3623250D0F684500981E51 /* SpellAppAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1965, 1079}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1053}}";
 			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 1532}";
+			sepNavVisRange = "{137, 1598}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* SpellApp */ = {
@@ -22,7 +22,7 @@
 	};
 	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {936, 560}}";
+			sepNavIntBoundsRect = "{{0, 0}, {895, 560}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 229}";
 		};
@@ -30,7 +30,7 @@
 	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
 		uiCtxt = {
 			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{3488, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{3539, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{3589, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 4285}\";\n    s = 0;\n}";
-			sepNavIntBoundsRect = "{{0, 0}, {936, 2314}}";
+			sepNavIntBoundsRect = "{{0, 0}, {895, 2314}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 827}";
 		};
@@ -49,7 +49,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					758,
+					717,
 					20,
 					48,
 					43,
@@ -82,16 +82,16 @@
 					PBXSymbolsDataSource_ReferenceNameID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 359615210;
-			PBXWorkspaceStateSaveDate = 359615210;
+			PBXPerProjectTemplateStateSaveDate = 359615357;
+			PBXWorkspaceStateSaveDate = 359615357;
 		};
 		perUserProjectItems = {
-			EA31F6CF156F4AFB000DB698 /* PBXTextBookmark */ = EA31F6CF156F4AFB000DB698 /* PBXTextBookmark */;
-			EA31F6D0156F4AFB000DB698 /* PBXTextBookmark */ = EA31F6D0156F4AFB000DB698 /* PBXTextBookmark */;
-			EA31F6D1156F4AFB000DB698 /* PBXTextBookmark */ = EA31F6D1156F4AFB000DB698 /* PBXTextBookmark */;
 			EA31F6D2156F4AFB000DB698 /* PBXTextBookmark */ = EA31F6D2156F4AFB000DB698 /* PBXTextBookmark */;
-			EA31F6D3156F4AFB000DB698 /* PBXBookmark */ = EA31F6D3156F4AFB000DB698 /* PBXBookmark */;
-			EA31F6D4156F4AFB000DB698 /* PlistBookmark */ = EA31F6D4156F4AFB000DB698 /* PlistBookmark */;
+			EA31F6E3156F4BD5000DB698 /* PlistBookmark */ = EA31F6E3156F4BD5000DB698 /* PlistBookmark */;
+			EA31F6E4156F4BD5000DB698 /* PBXTextBookmark */ = EA31F6E4156F4BD5000DB698 /* PBXTextBookmark */;
+			EA31F6E5156F4BD5000DB698 /* PBXTextBookmark */ = EA31F6E5156F4BD5000DB698 /* PBXTextBookmark */;
+			EA31F6E6156F4BD5000DB698 /* PBXTextBookmark */ = EA31F6E6156F4BD5000DB698 /* PBXTextBookmark */;
+			EA31F6E7156F4BD5000DB698 /* PBXTextBookmark */ = EA31F6E7156F4BD5000DB698 /* PBXTextBookmark */;
 		};
 		sourceControlManager = EA31F6DA156F4AFB000DB698 /* Source Control */;
 		userBuildSettings = {
@@ -124,36 +124,6 @@
 		sourceDirectories = (
 		);
 	};
-	EA31F6CF156F4AFB000DB698 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
-		name = "RootViewController.h: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 229;
-		vrLoc = 0;
-	};
-	EA31F6D0156F4AFB000DB698 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
-		name = "RootViewController.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 827;
-		vrLoc = 0;
-	};
-	EA31F6D1156F4AFB000DB698 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623240D0F684500981E51 /* SpellAppAppDelegate.h */;
-		name = "SpellAppAppDelegate.h: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 463;
-		vrLoc = 0;
-	};
 	EA31F6D2156F4AFB000DB698 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 1D3623250D0F684500981E51 /* SpellAppAppDelegate.m */;
@@ -163,21 +133,6 @@
 		rType = 0;
 		vrLen = 1532;
 		vrLoc = 0;
-	};
-	EA31F6D3156F4AFB000DB698 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 8D1107310486CEB800E47090 /* SpellApp-Info.plist */;
-	};
-	EA31F6D4156F4AFB000DB698 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* SpellApp-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/rspl/Spell-App/SpellApp/SpellApp-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775807;
 	};
 	EA31F6DA156F4AFB000DB698 /* Source Control */ = {
 		isa = PBXSourceControlManager;
@@ -192,5 +147,56 @@
 	EA31F6DB156F4AFB000DB698 /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
+	};
+	EA31F6E3156F4BD5000DB698 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SpellApp-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/rspl/Spell-App/SpellApp/SpellApp-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	EA31F6E4156F4BD5000DB698 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 229;
+		vrLoc = 0;
+	};
+	EA31F6E5156F4BD5000DB698 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 827;
+		vrLoc = 0;
+	};
+	EA31F6E6156F4BD5000DB698 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SpellAppAppDelegate.h */;
+		name = "SpellAppAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 463;
+		vrLoc = 0;
+	};
+	EA31F6E7156F4BD5000DB698 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpellAppAppDelegate.m */;
+		name = "SpellAppAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1598;
+		vrLoc = 137;
 	};
 }
